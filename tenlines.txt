@@ -1,0 +1,10 @@
+line ichi
+line ni
+line san
+line shi
+line go
+line roku
+line shichi
+line hachi
+line ku
+line ju (UTF-8, Linux EOF)
