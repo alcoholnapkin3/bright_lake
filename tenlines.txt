@@ -8,4 +8,5 @@ line nana
 line hachi
 line kyuu
 line juu (UTF-8, Linux EOF)
-line juuichi
+line ju-ichi
+
